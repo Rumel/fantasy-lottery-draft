@@ -41,10 +41,30 @@ team_order = []
 
 puts 'Starting the lottery draft'
 
+out_line = ''
 teams.size.times do |i|
+  puts 'Shuffling'
+  unless options[:debug]
+    5.times do
+      sleep 1
+      print '.'
+    end
+    print "\n"
+  end
+
   lottery.shuffle!(random: Random.new(seed))
   selected_team = lottery.first
-  puts "Round #{i + 1}: #{selected_team}"
+  puts ''
+  puts "Selected #{selected_team}!"
+  puts ''
+  s = "Round #{i + 1}: #{selected_team}"
+  out_line += "#{s}\n"
+
   team_order << selected_team
   lottery.delete_if { |team| team == selected_team }
 end
+
+puts 'Draft finished!'
+puts out_line
+
+File.write("output/#{File.basename(options[:filename], '.*')}-output.txt", out_line)
