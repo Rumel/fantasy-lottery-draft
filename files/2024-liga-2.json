@@ -6,40 +6,40 @@
       "weight": 1
     },
     {
+      "name": "Chase",
+      "weight": 2
+    },
+    {
       "name": "Patrick",
-      "weight": 1
+      "weight": 3
     },
     {
       "name": "Drew",
-      "weight": 1
-    },
-    {
-      "name": "Will H",
-      "weight": 1
-    },
-    {
-      "name": "Tanner",
-      "weight": 1
+      "weight": 4
     },
     {
       "name": "Evan",
-      "weight": 1
+      "weight": 5
+    },
+    {
+      "name": "Will H",
+      "weight": 6
+    },
+    {
+      "name": "Tanner",
+      "weight": 7
     },
     {
       "name": "James",
-      "weight": 1
-    },
-    {
-      "name": "Chase",
-      "weight": 1
+      "weight": 7
     },
     {
       "name": "Eddie",
-      "weight": 1
+      "weight": 7
     },
     {
       "name": "Armando",
-      "weight": 1
+      "weight": 7
     }
   ]
 }
