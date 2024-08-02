@@ -1,0 +1,45 @@
+{
+  "randomSeed": 1,
+  "teams": [
+    {
+      "name": "Spencer",
+      "weight": 1
+    },
+    {
+      "name": "Patrick",
+      "weight": 1
+    },
+    {
+      "name": "Drew",
+      "weight": 1
+    },
+    {
+      "name": "Will H",
+      "weight": 1
+    },
+    {
+      "name": "Tanner",
+      "weight": 1
+    },
+    {
+      "name": "Evan",
+      "weight": 1
+    },
+    {
+      "name": "James",
+      "weight": 1
+    },
+    {
+      "name": "Chase",
+      "weight": 1
+    },
+    {
+      "name": "Eddie",
+      "weight": 1
+    },
+    {
+      "name": "Armando",
+      "weight": 1
+    }
+  ]
+}

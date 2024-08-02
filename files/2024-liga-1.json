@@ -1,0 +1,45 @@
+{
+  "randomSeed": 1,
+  "teams": [
+    {
+      "name": "Alex",
+      "weight": 1
+    },
+    {
+      "name": "Dalton",
+      "weight": 1
+    },
+    {
+      "name": "Dexter",
+      "weight": 1
+    },
+    {
+      "name": "Will M",
+      "weight": 1
+    },
+    {
+      "name": "Tom",
+      "weight": 1
+    },
+    {
+      "name": "Sam",
+      "weight": 1
+    },
+    {
+      "name": "Matt",
+      "weight": 1
+    },
+    {
+      "name": "Blake",
+      "weight": 1
+    },
+    {
+      "name": "Ashton",
+      "weight": 1
+    },
+    {
+      "name": "Christian",
+      "weight": 1
+    }
+  ]
+}

@@ -2,4 +2,6 @@
 
 source 'https://rubygems.org'
 
+gem 'optparse'
 gem 'pry'
+gem 'rubocop'
